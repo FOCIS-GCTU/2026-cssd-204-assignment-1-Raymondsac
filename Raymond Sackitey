@@ -1,0 +1,36 @@
+# File: RSK.py
+# Description: Print out my initials in stylized large letters.
+# Assignment Number: 1
+#
+# Name: Raymond Sackitey Kwadjo
+# STUDENT ID:  2425404046
+# Email: 2425404046@live.gctu.edu.gh
+# Grader: Emma
+#
+# On my honor, Raymond Sackitey Kwadjo, this programming assignment is my own work
+# and I have not provided this code to any other student.
+
+
+def main():
+    # Print initials R, S, K in large block letters (12 wide * 10 tall) made of
+    # their respective capital letters, separated by 4 asterisk period blocks,
+    # with 3 period columns on left and right of each letter+period group.The
+    # characters shall be 10 characters high and 60 characters wide
+
+    print()
+    print("...RSK")
+    print()
+    print("...RRRRRRRRRR...****...SSSSSSSSSS..****...KKK.....KKKK****...")
+    print("...RR......RR...****...SS..........****...KKK....KKK..****...")
+    print("...RR......RR...****...SS..........****...KKK...KKK...****...")
+    print("...RRRRRRRRRR...****...SS..........****...KKKKKKKKKK..****...")
+    print("...RR....RR.....****...SSSSSSSSSS..****...KKK...KKK...****...")
+    print("...RR.....RR....****...........SS..****...KKK....KKK..****...")
+    print("...RR......RR...****...........SS..****...KKK.....KKK.****...")
+    print("...RR.......RR...****..........SS..****...KKK......KKK****...")
+    print("...RR........RR...****.........SS..****...KKK.......KKK***...")
+    print("...RR........RR...***...SSSSSSSSSS...****.KKK.......kKK***...")
+    print()
+
+
+main()
